@@ -114,9 +114,9 @@ Format: `add n/NAME [p/PHONE_NUMBER] [e/EMAIL] [g/GITHUB_USERNAME] [l/LINKEDIN] 
 
 <div markdown="span" class="alert alert-primary">:bulb: **Tip:**
 
-A person can have any number of tags (including 0)
+A person can have any number of tags (including 0)<br>
 
-View the [duplicate-detection](#duplicate-detection) section to find out what is considered as a duplicate contact. </br>
+View the [duplicate-detection](#duplicate-detection) section to find out what is considered as a duplicate contact. <br>
 
 View the [valid-field](#valid-fields) section to find out what is considered as valid field.
 </div>
@@ -152,9 +152,9 @@ Examples:
 
 <div markdown="span" class="alert alert-primary">:bulb: **Tip:**
 
-You can remove specified fields by typing the field's prefix only. This applied for all fields except Name. </br>
+You can remove specified fields by typing the field's prefix only. This applied for all fields except Name. <br>
 
-View the [duplicate-detection](#duplicate-detection) section to find out what is considered as a duplicate contact. </br>
+View the [duplicate-detection](#duplicate-detection) section to find out what is considered as a duplicate contact. <br>
 
 View the [valid-field](#valid-fields) section to find out what is considered as valid field.
 
@@ -362,7 +362,7 @@ Example of how alias replacement works:
 * The command `tag -A -D OS` will be replaced as `untagall OS` regardless of the order of you create the aliases because the longest matching alias that matches the prefix word is `tag -A -D`.
 
 <div markdown="span" class="alert alert-warning">:exclamation: **Caution:**
-Use it carefully. You are encouraged to create appropriate aliases. Refrain from creating alias that resembles existing command syntax, such as create alias `add n/Your Name` as any `tag` or `add` or any other commands.</br> 
+Use it carefully. You are encouraged to create appropriate aliases. Refrain from creating alias that resembles existing command syntax, such as create alias `add n/Your Name` as any `tag` or `add` or any other commands.<br> 
 **NetworkUS will not handle these cases for you.**
 </div>
 
