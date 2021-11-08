@@ -32,7 +32,7 @@ Given below are my contributions to the project.
 
 
 * **Project management**:
-    * Managed releases `v1.2` - `v1.4` (4 releases) on GitHub
+    * Managed releases `v1.2` - `v1.4` (3 releases) on GitHub
 
 
 * **Documentation**:
@@ -44,10 +44,10 @@ Given below are my contributions to the project.
         * Added Sequence diagrams for `replacetag` feature. [\#168](https://github.com/AY2122S1-CS2103T-T10-3/tp/pull/168)
         * Added Activity diagram for `replacetag` feature. [\#168](https://github.com/AY2122S1-CS2103T-T10-3/tp/pull/168)
 
-Sequence diagram for replace tag feature </br>
+Sequence diagram for replace tag feature <br>
 ![ReplaceTagSequenceDiagram](../images/ReplaceTagSequenceDiagram.png)
 
-Activity diagram for replace tag feature </br>
+Activity diagram for replace tag feature <br>
 ![ReplaceTagActivityDiagram](../images/ReplaceTagCommandActivityDiagram.png)
 
 * **Community**:
